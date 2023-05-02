@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ### ⚒️Skills
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor="#F7DF1E"/>
+<img src="https://img.shields.io/badge/#F7DF1E?style=for-the-badge&logo=JS&logoColor=black">
+
 ### Platforms & Languages
 
 ### Stats
