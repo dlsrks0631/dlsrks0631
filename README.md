@@ -2,7 +2,6 @@
 
 
 ### 🎈 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlsrks0631&show_icons=true&theme=radical)
 
 ### ✏️ Solved.ac Profile
 [![Solved.ac
