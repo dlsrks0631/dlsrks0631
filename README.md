@@ -1,7 +1,7 @@
+### 🙋🏻‍♂️ Profile
+- Jeonbuk National University, School of IT information engineering
+
 ### ⚒️ Skills
-
-
-### 🎈 Stats
 
 ### ✏️ Solved.ac Profile
 [![Solved.ac
