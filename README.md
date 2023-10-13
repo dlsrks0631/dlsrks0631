@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=32cd32&gradient&height=200&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=43&d%20Github%20Profile&descAlignY=51&descAlign=62&fontColor=ffc0cb)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff6b81&gradient&height=200&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=43&d%20Github%20Profile&descAlignY=51&descAlign=62&fontColor=ffc0cb)
 
 ### 🙋🏻‍♂️ Profile
 - Jeonbuk National University, School of IT information engineering
