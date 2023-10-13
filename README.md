@@ -9,4 +9,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsrks0631)](https://solved.ac/dlsrks0631)
 
+<br>
 ![header](https://capsule-render.vercel.app/api?type=soft&color=B5CB99&height=30&section=footer&fontSize=80&animation=fadeIn&fontColor=B5CB99)
